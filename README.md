@@ -6,11 +6,11 @@ Data Acquisition, Text Processing & Cleaning Course: Introduction to NLP
 
 Team
 Name	Roll Number	GitHub Username
-<Member 1>	<Roll No.>	<username>
-<Member 2>	<Roll No.>	<username>
-<Member 3>	<Roll No.>	<username>
+Muhammad Abdullah	L1F23BSCS0328	<username>
+Muhammad Freed Alam	L1F23BSCS0337	<username>
+Nida Mukthar		L1F23BSCS1127	<username>
 
-Team name: <Team Name>
+Team name: ETERNALS
 
 Project Overview
 
