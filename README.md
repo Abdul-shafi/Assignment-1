@@ -5,10 +5,11 @@ NLP Project: Phase 1 (Assignment 1)
 Data Acquisition, Text Processing & Cleaning Course: Introduction to NLP
 
 Team
-Name	Roll Number	GitHub Username
+Name	            Roll Number	    GitHub Username
 Muhammad Abdullah	L1F23BSCS0328	<username>
 Muhammad Freed Alam	L1F23BSCS0337	<username>
 Nida Mukthar		L1F23BSCS1127	<username>
+Muhammad Baar       L1f23bscs0334   muhammad-baar
 
 Team name: ETERNALS
 
